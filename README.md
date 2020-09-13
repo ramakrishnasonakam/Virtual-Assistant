@@ -1,3 +1,3 @@
 # Virtual-Assistant
 
-A virual assistant like Alexa/Cortana using python
+A virual assistant like Google Assistant/Alexa/Cortana using python
